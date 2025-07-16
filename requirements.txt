@@ -1,0 +1,2 @@
+# Requirements for RetroCommitWizard project
+# No external libraries required at this time
